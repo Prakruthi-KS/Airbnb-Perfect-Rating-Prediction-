@@ -81,7 +81,7 @@ The datasets used in this project are hosted externally due to size constraints 
 
 You can access all data files (training features, training labels, test set) at the following Google Drive folder:
 
-🔗 Airbnb Project Dataset – Google Drive : https://drive.google.com/drive/u/2/folders/1w3VUcwrBnck-drelujJ_vcaAnFvPdW0j
+🔗 Airbnb Project Dataset – Google Drive : https://drive.google.com/drive/folders/1TPORXF7vcqFLfXWNMdIwc620XJ8B3vji
 
 ---
 
